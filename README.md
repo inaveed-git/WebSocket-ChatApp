@@ -107,6 +107,7 @@ npm run dev
 **Naveed khan**
 GitHub: [@inaveed-git](https://github.com/inaveed-git)
 
----
 
-Let me know if you'd like this README customized for GitHub deployment or if you're planning to convert this into a **Tic-Tac-Toe game** — I can help update it for that too.
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
